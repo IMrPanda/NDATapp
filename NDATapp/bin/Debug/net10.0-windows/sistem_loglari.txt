@@ -1,0 +1,790 @@
+17:38:03: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:38:03: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:38:03: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:38:03: Aras kargo adaptörü tetiklendi.
+17:38:03: Kargo Takip No: ARAS-CE5CE
+17:38:03: Kargo ücretine Sigorta eklendi (+50 TL).
+17:38:03: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:38:03: Toplam Kargo Maliyeti: 122.5 TL
+17:38:03: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:38:03: --- İşlem Başarıyla Tamamlandı ---
+17:38:05: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:38:05: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:38:05: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:38:05: Aras kargo adaptörü tetiklendi.
+17:38:05: Kargo Takip No: ARAS-9A7B8
+17:38:05: Kargo ücretine Sigorta eklendi (+50 TL).
+17:38:05: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:38:05: Toplam Kargo Maliyeti: 122.5 TL
+17:38:05: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:38:05: --- İşlem Başarıyla Tamamlandı ---
+17:38:31: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:38:31: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:38:31: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:38:31: Aras kargo adaptörü tetiklendi.
+17:38:31: Kargo Takip No: ARAS-C8B17
+17:38:31: Kargo ücretine Sigorta eklendi (+50 TL).
+17:38:31: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:38:31: Toplam Kargo Maliyeti: 122.5 TL
+17:38:31: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:38:31: --- İşlem Başarıyla Tamamlandı ---
+17:38:32: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:38:32: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:38:32: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:38:32: Aras kargo adaptörü tetiklendi.
+17:38:32: Kargo Takip No: ARAS-9C47A
+17:38:32: Kargo ücretine Sigorta eklendi (+50 TL).
+17:38:32: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:38:32: Toplam Kargo Maliyeti: 122.5 TL
+17:38:32: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:38:32: --- İşlem Başarıyla Tamamlandı ---
+17:43:05: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:43:05: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:43:05: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:43:05: Aras kargo adaptörü tetiklendi.
+17:43:05: Kargo Takip No: ARAS-D390F
+17:43:05: Kargo ücretine Sigorta eklendi (+50 TL).
+17:43:05: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:43:05: Toplam Kargo Maliyeti: 122.5 TL
+17:43:05: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:43:05: --- İşlem Başarıyla Tamamlandı ---
+17:45:24: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+17:45:24: Gaming PC isimli donanım/montaj ürünü başarıyla inşa edildi.
+17:45:32: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:45:32: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:45:32: Havale/EFT işlemi onaylandı. Tutar: 500 TL.
+17:45:32: Yurtiçi kargo adaptörü tetiklendi.
+17:45:32: Kargo Takip No: YRT-82F58
+17:45:32: Kargo ücretine Sigorta eklendi (+50 TL).
+17:45:32: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:45:32: Toplam Kargo Maliyeti: 122.5 TL
+17:45:32: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:45:32: --- İşlem Başarıyla Tamamlandı ---
+17:45:47: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:45:47: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 8
+17:45:47: Havale/EFT işlemi onaylandı. Tutar: 500 TL.
+17:45:47: Yurtiçi kargo adaptörü tetiklendi.
+17:45:47: Kargo Takip No: YRT-E68E5
+17:45:47: Kargo ücretine Sigorta eklendi (+50 TL).
+17:45:47: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:45:47: Toplam Kargo Maliyeti: 122.5 TL
+17:45:47: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:45:47: --- İşlem Başarıyla Tamamlandı ---
+17:45:55: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:45:55: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 7
+17:45:55: Havale/EFT işlemi onaylandı. Tutar: 500 TL.
+17:45:55: Aras kargo adaptörü tetiklendi.
+17:45:55: Kargo Takip No: ARAS-7527E
+17:45:55: Kargo ücretine Sigorta eklendi (+50 TL).
+17:45:55: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:45:55: Toplam Kargo Maliyeti: 122.5 TL
+17:45:55: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:45:55: --- İşlem Başarıyla Tamamlandı ---
+17:46:06: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+17:46:06: Gaming PC isimli donanım/montaj ürünü başarıyla inşa edildi.
+17:47:52: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:47:52: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 6
+17:47:52: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:47:52: Aras kargo adaptörü tetiklendi.
+17:47:52: Kargo Takip No: ARAS-7EFD9
+17:47:52: Kargo ücretine Sigorta eklendi (+50 TL).
+17:47:52: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:47:52: Toplam Kargo Maliyeti: 122.5 TL
+17:47:52: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:47:52: --- İşlem Başarıyla Tamamlandı ---
+17:47:56: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+17:47:56: Gaming PC isimli donanım/montaj ürünü başarıyla inşa edildi.
+17:48:46: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:48:46: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 5
+17:48:46: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+17:48:46: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+17:48:46: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:48:46: Aras kargo adaptörü tetiklendi.
+17:48:46: Kargo Takip No: ARAS-65110
+17:48:46: Kargo ücretine Sigorta eklendi (+50 TL).
+17:48:46: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:48:46: Toplam Kargo Maliyeti: 122.5 TL
+17:48:46: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:48:46: --- İşlem Başarıyla Tamamlandı ---
+17:48:54: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:48:54: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 4
+17:48:54: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+17:48:54: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+17:48:54: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:48:54: Aras kargo adaptörü tetiklendi.
+17:48:54: Kargo Takip No: ARAS-D20C3
+17:48:54: Kargo ücretine Sigorta eklendi (+50 TL).
+17:48:54: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:48:54: Toplam Kargo Maliyeti: 122.5 TL
+17:48:54: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:48:54: --- İşlem Başarıyla Tamamlandı ---
+17:57:10: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:57:10: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:57:10: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:57:10: Aras kargo adaptörü tetiklendi.
+17:57:10: Kargo Takip No: ARAS-544A6
+17:57:10: Kargo ücretine Sigorta eklendi (+50 TL).
+17:57:10: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:57:10: Toplam Kargo Maliyeti: 122.5 TL
+17:57:10: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:57:10: --- İşlem Başarıyla Tamamlandı ---
+17:57:31: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:57:31: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 11
+17:57:31: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:57:31: Aras kargo adaptörü tetiklendi.
+17:57:31: Kargo Takip No: ARAS-C209B
+17:57:31: Kargo ücretine Sigorta eklendi (+50 TL).
+17:57:31: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:57:31: Toplam Kargo Maliyeti: 122.5 TL
+17:57:31: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:57:31: --- İşlem Başarıyla Tamamlandı ---
+17:57:43: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+17:57:43: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+17:57:43: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 9
+17:57:43: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+17:57:43: Aras kargo adaptörü tetiklendi.
+17:57:43: Kargo Takip No: ARAS-1575F
+17:57:43: Kargo ücretine Sigorta eklendi (+50 TL).
+17:57:43: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:57:43: Toplam Kargo Maliyeti: 122.5 TL
+17:57:43: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:57:43: --- İşlem Başarıyla Tamamlandı ---
+17:58:10: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:58:10: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 10
+17:58:10: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:58:10: Aras kargo adaptörü tetiklendi.
+17:58:10: Kargo Takip No: ARAS-757E7
+17:58:10: Kargo ücretine Sigorta eklendi (+50 TL).
+17:58:10: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:58:10: Toplam Kargo Maliyeti: 122.5 TL
+17:58:10: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:58:10: --- İşlem Başarıyla Tamamlandı ---
+17:58:35: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+17:58:35: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+17:58:35: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+17:58:35: Aras kargo adaptörü tetiklendi.
+17:58:35: Kargo Takip No: ARAS-F08EC
+17:58:35: Kargo ücretine Sigorta eklendi (+50 TL).
+17:58:35: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+17:58:35: Toplam Kargo Maliyeti: 122.5 TL
+17:58:35: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+17:58:35: --- İşlem Başarıyla Tamamlandı ---
+18:08:31: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+18:08:31: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 8
+18:08:31: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+18:08:31: Aras kargo adaptörü tetiklendi.
+18:08:31: Kargo Takip No: ARAS-011DB
+18:08:31: Kargo ücretine Sigorta eklendi (+50 TL).
+18:08:31: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:08:31: Toplam Kargo Maliyeti: 122.5 TL
+18:08:31: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:08:31: --- İşlem Başarıyla Tamamlandı ---
+18:08:35: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+18:08:35: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 7
+18:08:35: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+18:08:35: Aras kargo adaptörü tetiklendi.
+18:08:35: Kargo Takip No: ARAS-CB9BD
+18:08:35: Kargo ücretine Sigorta eklendi (+50 TL).
+18:08:35: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:08:35: Toplam Kargo Maliyeti: 122.5 TL
+18:08:35: Sipariş #102 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:08:35: --- İşlem Başarıyla Tamamlandı ---
+18:08:43: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+18:08:43: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+18:08:43: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 8
+18:08:43: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+18:08:43: Aras kargo adaptörü tetiklendi.
+18:08:43: Kargo Takip No: ARAS-59D72
+18:08:43: Kargo ücretine Sigorta eklendi (+50 TL).
+18:08:43: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:08:43: Toplam Kargo Maliyeti: 122.5 TL
+18:08:43: Sipariş #103 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:08:43: --- İşlem Başarıyla Tamamlandı ---
+18:10:14: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:10:24: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:10:28: Sipariş #102 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:23:16: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+18:23:16: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 6
+18:23:16: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+18:23:16: Aras kargo adaptörü tetiklendi.
+18:23:16: Kargo Takip No: ARAS-30190
+18:23:16: Kargo ücretine Sigorta eklendi (+50 TL).
+18:23:16: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:23:16: Toplam Kargo Maliyeti: 122.5 TL
+18:23:16: Sipariş #104 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:23:16: --- İşlem Başarıyla Tamamlandı ---
+18:23:18: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+18:23:18: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 5
+18:23:18: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+18:23:18: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+18:23:18: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+18:23:18: Aras kargo adaptörü tetiklendi.
+18:23:18: Kargo Takip No: ARAS-65D21
+18:23:18: Kargo ücretine Sigorta eklendi (+50 TL).
+18:23:18: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:23:18: Toplam Kargo Maliyeti: 122.5 TL
+18:23:18: Sipariş #105 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:23:18: --- İşlem Başarıyla Tamamlandı ---
+18:23:23: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+18:23:23: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+18:23:23: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 7
+18:23:23: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+18:23:23: Aras kargo adaptörü tetiklendi.
+18:23:23: Kargo Takip No: ARAS-098F1
+18:23:23: Kargo ücretine Sigorta eklendi (+50 TL).
+18:23:23: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:23:23: Toplam Kargo Maliyeti: 122.5 TL
+18:23:23: Sipariş #106 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:23:23: --- İşlem Başarıyla Tamamlandı ---
+18:23:28: Sipariş #101 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:23:36: Sipariş #101 teslim edildi olarak işaretlendi.
+18:23:38: Sipariş #101 zaten teslim edilmiş. Daha ileri bir aşama yok.
+18:24:09: Sipariş #101 teslim edildiği için doğrudan iade sürecine alınıyor.
+18:24:16: Sipariş #101 iadesi iptal edildi edilemez, zaten iade durumunda.
+18:24:19: Sipariş #101 iade sürecinde, ürünler depoya geri alınıyor.
+18:24:22: Sipariş #101 iade sürecinde, ürünler depoya geri alınıyor.
+18:24:28: Sipariş #102 'Beklemede' aşamasındayken iptal edildi.
+18:24:35: Sipariş #103 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:24:37: HATA: Sipariş #103 kargoya verildiği için iptal edilemez. Sadece iade süreci başlatılabilir.
+18:24:44: HATA: Sipariş #103 kargoya verildiği için iptal edilemez. Sadece iade süreci başlatılabilir.
+18:24:50: Sipariş #103 teslim edildi olarak işaretlendi.
+18:24:52: Sipariş #103 teslim edildiği için doğrudan iade sürecine alınıyor.
+18:24:56: Sipariş #103 iade sürecinde, ürünler depoya geri alınıyor.
+18:25:00: Sipariş #104 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:25:02: Sipariş #104 teslim edildi olarak işaretlendi.
+18:25:04: Sipariş #104 zaten teslim edilmiş. Daha ileri bir aşama yok.
+18:44:06: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+18:44:06: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+18:44:06: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 6
+18:44:06: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+18:44:06: Yurtiçi kargo adaptörü tetiklendi.
+18:44:06: Kargo Takip No: YRT-73E84
+18:44:06: Kargo ücretine Sigorta eklendi (+50 TL).
+18:44:06: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:44:06: Toplam Kargo Maliyeti: 122.5 TL
+18:44:06: Sipariş #107 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:44:06: --- İşlem Başarıyla Tamamlandı ---
+18:45:07: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+18:45:07: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+18:45:07: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 5
+18:45:07: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+18:45:07: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+18:45:07: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+18:45:07: Yurtiçi kargo adaptörü tetiklendi.
+18:45:07: Kargo Takip No: YRT-50810
+18:45:07: Kargo ücretine Sigorta eklendi (+50 TL).
+18:45:07: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+18:45:07: Toplam Kargo Maliyeti: 122.5 TL
+18:45:07: Sipariş #108 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:45:07: --- İşlem Başarıyla Tamamlandı ---
+18:46:03: Sipariş #106 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:46:09: HATA: Sipariş #106 kargoya verildiği için iptal edilemez. Sadece iade süreci başlatılabilir.
+18:46:14: Sipariş #106 teslim edildi olarak işaretlendi.
+18:46:19: Sipariş #106 teslim edildiği için doğrudan iade sürecine alınıyor.
+18:46:23: Sipariş #106 iadesi iptal edildi edilemez, zaten iade durumunda.
+18:46:27: Sipariş #106 iade sürecinde, ürünler depoya geri alınıyor.
+18:46:32: Sipariş #106 iade sürecinde, ürünler depoya geri alınıyor.
+18:46:34: Sipariş #106 iadesi iptal edildi edilemez, zaten iade durumunda.
+18:46:35: Sipariş #107 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+18:46:36: Sipariş #107 teslim edildi olarak işaretlendi.
+18:46:37: Sipariş #107 zaten teslim edilmiş. Daha ileri bir aşama yok.
+18:46:38: Sipariş #107 teslim edildiği için doğrudan iade sürecine alınıyor.
+18:46:45: Sipariş #108 'Beklemede' aşamasındayken iptal edildi.
+19:48:59: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+19:48:59: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+19:48:59: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 4
+19:48:59: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+19:48:59: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+19:48:59: Havale/EFT işlemi onaylandı. Tutar: 32000 TL.
+19:48:59: Aras kargo adaptörü tetiklendi.
+19:48:59: Kargo Takip No: ARAS-F38BA
+19:48:59: Kargo ücretine Sigorta eklendi (+50 TL).
+19:48:59: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+19:48:59: Toplam Kargo Maliyeti: 122.5 TL
+19:48:59: Sipariş #109 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+19:48:59: --- İşlem Başarıyla Tamamlandı ---
+19:49:21: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+19:49:21: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 4
+19:49:21: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+19:49:21: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+19:49:21: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+19:49:21: Yurtiçi kargo adaptörü tetiklendi.
+19:49:21: Kargo Takip No: YRT-A1357
+19:49:21: Kargo ücretine Sigorta eklendi (+50 TL).
+19:49:21: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+19:49:21: Toplam Kargo Maliyeti: 122.5 TL
+19:49:21: Sipariş #110 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+19:49:21: --- İşlem Başarıyla Tamamlandı ---
+19:50:53: Sipariş #109 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+19:50:55: Sipariş #109 teslim edildi olarak işaretlendi.
+20:07:06: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+20:07:06: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 3
+20:07:06: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 3
+20:07:06: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 3
+20:07:06: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+20:07:06: Aras kargo adaptörü tetiklendi.
+20:07:06: Kargo Takip No: ARAS-B999D
+20:07:06: Kargo ücretine Sigorta eklendi (+50 TL).
+20:07:06: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+20:07:06: Toplam Kargo Maliyeti: 122.5 TL
+20:07:06: Sipariş #111 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+20:07:06: --- İşlem Başarıyla Tamamlandı ---
+20:38:58: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+20:38:58: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 2
+20:38:58: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 2
+20:38:58: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 2
+20:38:58: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+20:38:58: Aras kargo adaptörü tetiklendi.
+20:38:58: Kargo Takip No: ARAS-24AE1
+20:38:58: Kargo ücretine Sigorta eklendi (+50 TL).
+20:38:58: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+20:38:58: Toplam Kargo Maliyeti: 122.5 TL
+20:38:58: Sipariş #112 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+20:38:58: --- İşlem Başarıyla Tamamlandı ---
+20:39:29: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+20:39:29: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+20:39:29: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+20:39:29: Aras kargo adaptörü tetiklendi.
+20:39:29: Kargo Takip No: ARAS-22C52
+20:39:29: Kargo ücretine Sigorta eklendi (+50 TL).
+20:39:29: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+20:39:29: Toplam Kargo Maliyeti: 122.5 TL
+20:39:29: Sipariş #113 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+20:39:29: --- İşlem Başarıyla Tamamlandı ---
+20:58:35: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+20:58:35: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 8
+20:58:35: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+20:58:35: Aras kargo adaptörü tetiklendi.
+20:58:35: Kargo Takip No: ARAS-BFEAD
+20:58:35: Kargo ücretine Sigorta eklendi (+50 TL).
+20:58:35: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+20:58:35: Toplam Kargo Maliyeti: 122.5 TL
+20:58:35: Sipariş #114 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+20:58:35: --- İşlem Başarıyla Tamamlandı ---
+20:59:31: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+20:59:31: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 7
+20:59:31: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+20:59:31: Aras kargo adaptörü tetiklendi.
+20:59:31: Kargo Takip No: ARAS-29A06
+20:59:31: Kargo ücretine Sigorta eklendi (+50 TL).
+20:59:31: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+20:59:31: Toplam Kargo Maliyeti: 122.5 TL
+20:59:31: Sipariş #115 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+20:59:31: --- İşlem Başarıyla Tamamlandı ---
+20:59:52: Sipariş #112 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:00:03: Sipariş #113 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:01:35: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:01:35: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 6
+21:01:35: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:01:35: Aras kargo adaptörü tetiklendi.
+21:01:35: Kargo Takip No: ARAS-2C449
+21:01:35: Kargo ücretine Sigorta eklendi (+50 TL).
+21:01:35: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:01:35: Toplam Kargo Maliyeti: 122.5 TL
+21:01:35: Sipariş #116 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:01:35: --- İşlem Başarıyla Tamamlandı ---
+21:04:43: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:04:43: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 5
+21:04:43: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+21:04:43: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+21:04:43: Havale/EFT işlemi onaylandı. Tutar: 500 TL.
+21:04:43: Yurtiçi kargo adaptörü tetiklendi.
+21:04:43: Kargo Takip No: YRT-72CDC
+21:04:43: Kargo ücretine Sigorta eklendi (+50 TL).
+21:04:43: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:04:43: Toplam Kargo Maliyeti: 122.5 TL
+21:04:43: Sipariş #117 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:04:43: --- İşlem Başarıyla Tamamlandı ---
+21:04:56: Sipariş #106 iade sürecinde, ürünler depoya geri alınıyor.
+21:04:57: Sipariş #105 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:04:59: Sipariş #109 zaten teslim edilmiş. Daha ileri bir aşama yok.
+21:05:01: Sipariş #111 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:05:02: Sipariş #112 teslim edildi olarak işaretlendi.
+21:05:09: Sipariş #107 iadesi iptal edildi edilemez, zaten iade durumunda.
+21:06:25: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:06:25: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 4
+21:06:25: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+21:06:25: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+21:06:25: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:06:25: Aras kargo adaptörü tetiklendi.
+21:06:25: Kargo Takip No: ARAS-6AC90
+21:06:25: Kargo ücretine Sigorta eklendi (+50 TL).
+21:06:25: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:06:25: Toplam Kargo Maliyeti: 122.5 TL
+21:06:26: Sipariş #118 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:06:26: --- İşlem Başarıyla Tamamlandı ---
+21:06:27: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:06:27: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 3
+21:06:27: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 3
+21:06:27: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 3
+21:06:27: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:06:27: Aras kargo adaptörü tetiklendi.
+21:06:27: Kargo Takip No: ARAS-73D39
+21:06:27: Kargo ücretine Sigorta eklendi (+50 TL).
+21:06:27: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:06:27: Toplam Kargo Maliyeti: 122.5 TL
+21:06:27: Sipariş #119 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:06:27: --- İşlem Başarıyla Tamamlandı ---
+21:07:37: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:07:37: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 14
+21:07:37: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:07:37: Aras kargo adaptörü tetiklendi.
+21:07:37: Kargo Takip No: ARAS-D7C8F
+21:07:37: Kargo ücretine Sigorta eklendi (+50 TL).
+21:07:37: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:07:37: Toplam Kargo Maliyeti: 122.5 TL
+21:07:37: Sipariş #120 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:07:37: --- İşlem Başarıyla Tamamlandı ---
+21:07:40: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:07:40: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 13
+21:07:40: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:07:40: Aras kargo adaptörü tetiklendi.
+21:07:40: Kargo Takip No: ARAS-2D0E5
+21:07:40: Kargo ücretine Sigorta eklendi (+50 TL).
+21:07:40: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:07:40: Toplam Kargo Maliyeti: 122.5 TL
+21:07:40: Sipariş #121 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:07:40: --- İşlem Başarıyla Tamamlandı ---
+21:07:55: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:07:55: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 12
+21:07:55: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:07:55: Aras kargo adaptörü tetiklendi.
+21:07:56: Kargo Takip No: ARAS-1225F
+21:07:56: Kargo ücretine Sigorta eklendi (+50 TL).
+21:07:56: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:07:56: Toplam Kargo Maliyeti: 122.5 TL
+21:07:56: Sipariş #122 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:07:56: --- İşlem Başarıyla Tamamlandı ---
+21:07:57: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:07:57: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 11
+21:07:57: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:07:57: Aras kargo adaptörü tetiklendi.
+21:07:57: Kargo Takip No: ARAS-BD42C
+21:07:57: Kargo ücretine Sigorta eklendi (+50 TL).
+21:07:57: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:07:57: Toplam Kargo Maliyeti: 122.5 TL
+21:07:57: Sipariş #123 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:07:57: --- İşlem Başarıyla Tamamlandı ---
+21:08:32: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:08:32: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 10
+21:08:32: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:08:32: Aras kargo adaptörü tetiklendi.
+21:08:32: Kargo Takip No: ARAS-507CE
+21:08:32: Kargo ücretine Sigorta eklendi (+50 TL).
+21:08:32: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:08:32: Toplam Kargo Maliyeti: 122.5 TL
+21:08:32: Sipariş #124 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:08:32: --- İşlem Başarıyla Tamamlandı ---
+21:08:34: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:08:34: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+21:08:34: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:08:34: Aras kargo adaptörü tetiklendi.
+21:08:34: Kargo Takip No: ARAS-F2632
+21:08:34: Kargo ücretine Sigorta eklendi (+50 TL).
+21:08:34: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:08:34: Toplam Kargo Maliyeti: 122.5 TL
+21:08:34: Sipariş #125 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:08:34: --- İşlem Başarıyla Tamamlandı ---
+21:12:45: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:12:45: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 8
+21:12:45: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:12:45: Aras kargo adaptörü tetiklendi.
+21:12:45: Kargo Takip No: ARAS-32304
+21:12:45: Kargo ücretine Sigorta eklendi (+50 TL).
+21:12:45: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:12:45: Toplam Kargo Maliyeti: 122.5 TL
+21:12:45: Sipariş #126 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:12:45: --- İşlem Başarıyla Tamamlandı ---
+21:12:47: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:12:47: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 7
+21:12:47: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:12:47: Aras kargo adaptörü tetiklendi.
+21:12:47: Kargo Takip No: ARAS-04792
+21:12:47: Kargo ücretine Sigorta eklendi (+50 TL).
+21:12:47: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:12:47: Toplam Kargo Maliyeti: 122.5 TL
+21:12:47: Sipariş #127 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:12:47: --- İşlem Başarıyla Tamamlandı ---
+21:13:09: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:13:09: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 6
+21:13:09: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:13:09: Aras kargo adaptörü tetiklendi.
+21:13:09: Kargo Takip No: ARAS-448AB
+21:13:09: Kargo ücretine Sigorta eklendi (+50 TL).
+21:13:09: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:13:09: Toplam Kargo Maliyeti: 122.5 TL
+21:13:09: Sipariş #128 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:13:09: --- İşlem Başarıyla Tamamlandı ---
+21:13:13: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:13:13: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 5
+21:13:13: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+21:13:13: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+21:13:13: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:13:13: Aras kargo adaptörü tetiklendi.
+21:13:13: Kargo Takip No: ARAS-20818
+21:13:13: Kargo ücretine Sigorta eklendi (+50 TL).
+21:13:13: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:13:13: Toplam Kargo Maliyeti: 122.5 TL
+21:13:13: Sipariş #129 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:13:13: --- İşlem Başarıyla Tamamlandı ---
+21:13:30: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:13:30: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 4
+21:13:30: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+21:13:30: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+21:13:30: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:13:30: Aras kargo adaptörü tetiklendi.
+21:13:30: Kargo Takip No: ARAS-5CBB6
+21:13:30: Kargo ücretine Sigorta eklendi (+50 TL).
+21:13:30: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:13:30: Toplam Kargo Maliyeti: 122.5 TL
+21:13:30: Sipariş #130 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:13:30: --- İşlem Başarıyla Tamamlandı ---
+21:14:07: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:14:07: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 19
+21:14:07: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:14:07: Aras kargo adaptörü tetiklendi.
+21:14:08: Kargo Takip No: ARAS-D06D2
+21:14:08: Kargo ücretine Sigorta eklendi (+50 TL).
+21:14:08: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:14:08: Toplam Kargo Maliyeti: 122.5 TL
+21:14:08: Sipariş #131 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:14:08: --- İşlem Başarıyla Tamamlandı ---
+21:14:11: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:14:11: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 18
+21:14:11: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:14:11: Aras kargo adaptörü tetiklendi.
+21:14:11: Kargo Takip No: ARAS-9E0B4
+21:14:11: Kargo ücretine Sigorta eklendi (+50 TL).
+21:14:11: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:14:11: Toplam Kargo Maliyeti: 122.5 TL
+21:14:11: Sipariş #132 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:14:11: --- İşlem Başarıyla Tamamlandı ---
+21:14:27: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:14:27: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 17
+21:14:27: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:14:27: Aras kargo adaptörü tetiklendi.
+21:14:27: Kargo Takip No: ARAS-56F71
+21:14:27: Kargo ücretine Sigorta eklendi (+50 TL).
+21:14:27: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:14:27: Toplam Kargo Maliyeti: 122.5 TL
+21:14:27: Sipariş #133 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:14:27: --- İşlem Başarıyla Tamamlandı ---
+21:14:29: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:14:29: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 16
+21:14:29: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:14:29: Aras kargo adaptörü tetiklendi.
+21:14:29: Kargo Takip No: ARAS-49CEB
+21:14:29: Kargo ücretine Sigorta eklendi (+50 TL).
+21:14:29: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:14:29: Toplam Kargo Maliyeti: 122.5 TL
+21:14:29: Sipariş #134 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:14:29: --- İşlem Başarıyla Tamamlandı ---
+21:44:26: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+21:44:26: Bilgisayar Kasası (Karmaşık) isimli donanım/montaj ürünü başarıyla inşa edildi.
+21:44:26: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 9
+21:44:26: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+21:44:26: Aras kargo adaptörü tetiklendi.
+21:44:26: Kargo Takip No: ARAS-4D651
+21:44:26: Kargo ücretine Sigorta eklendi (+50 TL).
+21:44:26: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:44:26: Toplam Kargo Maliyeti: 122.5 TL
+21:44:26: Sipariş #135 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:44:26: --- İşlem Başarıyla Tamamlandı ---
+21:44:34: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:44:34: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 15
+21:44:34: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:44:34: Aras kargo adaptörü tetiklendi.
+21:44:34: Kargo Takip No: ARAS-B6BFE
+21:44:34: Kargo ücretine Sigorta eklendi (+50 TL).
+21:44:34: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:44:34: Toplam Kargo Maliyeti: 122.5 TL
+21:44:34: Sipariş #136 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:44:34: --- İşlem Başarıyla Tamamlandı ---
+21:46:29: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+21:46:29: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+21:46:29: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+21:46:29: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+21:46:29: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 8
+21:46:29: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+21:46:29: Aras kargo adaptörü tetiklendi.
+21:46:29: Kargo Takip No: ARAS-8CACD
+21:46:29: Kargo ücretine Sigorta eklendi (+50 TL).
+21:46:29: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:46:29: Toplam Kargo Maliyeti: 122.5 TL
+21:46:29: Sipariş #137 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:46:29: --- İşlem Başarıyla Tamamlandı ---
+21:56:57: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:56:57: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 14
+21:56:57: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:56:57: Aras kargo adaptörü tetiklendi.
+21:56:57: Kargo Takip No: ARAS-F3DA5
+21:56:57: Kargo ücretine Sigorta eklendi (+50 TL).
+21:56:57: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:56:57: Toplam Kargo Maliyeti: 122.5 TL
+21:56:57: Sipariş #138 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:56:57: --- İşlem Başarıyla Tamamlandı ---
+21:58:00: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:58:00: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 7
+21:58:00: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:58:00: Aras kargo adaptörü tetiklendi.
+21:58:00: Kargo Takip No: ARAS-A511E
+21:58:00: Kargo ücretine Sigorta eklendi (+50 TL).
+21:58:00: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:58:00: Toplam Kargo Maliyeti: 122.5 TL
+21:58:00: Sipariş #139 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:58:00: --- İşlem Başarıyla Tamamlandı ---
+21:58:16: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+21:58:16: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 6
+21:58:16: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+21:58:16: Aras kargo adaptörü tetiklendi.
+21:58:16: Kargo Takip No: ARAS-9C75D
+21:58:16: Kargo ücretine Sigorta eklendi (+50 TL).
+21:58:16: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:58:16: Toplam Kargo Maliyeti: 122.5 TL
+21:58:16: Sipariş #200 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:58:16: --- İşlem Başarıyla Tamamlandı ---
+21:59:11: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+21:59:11: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+21:59:11: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+21:59:11: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+21:59:11: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 7
+21:59:11: Havale/EFT işlemi onaylandı. Tutar: 32000 TL.
+21:59:11: Yurtiçi kargo adaptörü tetiklendi.
+21:59:11: Kargo Takip No: YRT-21590
+21:59:11: Kargo ücretine Sigorta eklendi (+50 TL).
+21:59:11: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+21:59:11: Toplam Kargo Maliyeti: 122.5 TL
+21:59:11: Sipariş #201 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:59:11: --- İşlem Başarıyla Tamamlandı ---
+21:59:48: Sipariş #135 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+21:59:55: Sipariş #135 teslim edildi olarak işaretlendi.
+22:00:00: Sipariş #135 zaten teslim edilmiş. Daha ileri bir aşama yok.
+22:00:05: Sipariş #135 teslim edildiği için doğrudan iade sürecine alınıyor.
+22:00:09: Sipariş #135 iade sürecinde, ürünler depoya geri alınıyor.
+22:00:13: Sipariş #135 iade sürecinde, ürünler depoya geri alınıyor.
+22:00:19: Sipariş #136 'Beklemede' aşamasındayken iptal edildi.
+22:00:25: Sipariş #137 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:00:30: HATA: Sipariş #137 kargoya verildiği için iptal edilemez. Sadece iade süreci başlatılabilir.
+22:00:38: Sipariş #137 teslim edildi olarak işaretlendi.
+22:00:46: Sipariş #137 teslim edildiği için doğrudan iade sürecine alınıyor.
+22:00:48: Sipariş #138 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:00:49: HATA: Sipariş #138 kargoya verildiği için iptal edilemez. Sadece iade süreci başlatılabilir.
+22:00:51: Sipariş #138 teslim edildi olarak işaretlendi.
+22:00:53: Sipariş #138 zaten teslim edilmiş. Daha ileri bir aşama yok.
+22:00:54: Sipariş #138 teslim edildiği için doğrudan iade sürecine alınıyor.
+22:03:51: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+22:03:51: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 5
+22:03:51: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+22:03:51: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+22:03:51: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+22:03:51: Aras kargo adaptörü tetiklendi.
+22:03:51: Kargo Takip No: ARAS-24ED1
+22:03:51: Kargo ücretine Sigorta eklendi (+50 TL).
+22:03:51: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+22:03:51: Toplam Kargo Maliyeti: 122.5 TL
+22:03:51: Sipariş #202 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:03:51: --- İşlem Başarıyla Tamamlandı ---
+22:04:05: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+22:04:05: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+22:04:05: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+22:04:05: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+22:04:05: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 6
+22:04:05: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+22:04:05: Aras kargo adaptörü tetiklendi.
+22:04:05: Kargo Takip No: ARAS-196C7
+22:04:05: Kargo ücretine Sigorta eklendi (+50 TL).
+22:04:05: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+22:04:05: Toplam Kargo Maliyeti: 122.5 TL
+22:04:05: Sipariş #203 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:04:05: --- İşlem Başarıyla Tamamlandı ---
+22:04:09: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+22:04:09: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+22:04:09: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+22:04:09: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+22:04:09: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 5
+22:04:09: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+22:04:09: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 5
+22:04:09: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+22:04:09: Aras kargo adaptörü tetiklendi.
+22:04:09: Kargo Takip No: ARAS-74B30
+22:04:09: Kargo ücretine Sigorta eklendi (+50 TL).
+22:04:09: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+22:04:09: Toplam Kargo Maliyeti: 122.5 TL
+22:04:09: Sipariş #204 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:04:09: --- İşlem Başarıyla Tamamlandı ---
+22:10:03: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+22:10:03: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 4
+22:10:03: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+22:10:03: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+22:10:03: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+22:10:03: Aras kargo adaptörü tetiklendi.
+22:10:03: Kargo Takip No: ARAS-22E78
+22:10:03: Kargo ücretine Sigorta eklendi (+50 TL).
+22:10:03: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+22:10:03: Toplam Kargo Maliyeti: 122.5 TL
+22:10:03: Sipariş #205 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:10:03: --- İşlem Başarıyla Tamamlandı ---
+22:12:15: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+22:12:15: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 3
+22:12:15: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 3
+22:12:15: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Kalem (Basit) ürünü kritik eşiğin altına düştü! Kalan miktar: 3
+22:12:15: Kripto Cüzdan üzerinden 500 TL başarıyla çekildi.
+22:12:15: Aras kargo adaptörü tetiklendi.
+22:12:15: Kargo Takip No: ARAS-BAAB2
+22:12:15: Kargo ücretine Sigorta eklendi (+50 TL).
+22:12:15: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+22:12:15: Toplam Kargo Maliyeti: 122.5 TL
+22:12:15: Sipariş #206 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:12:15: --- İşlem Başarıyla Tamamlandı ---
+22:12:30: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+22:12:30: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+22:12:30: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+22:12:30: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+22:12:30: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 4
+22:12:30: [SATIN ALMA BİRİMİNE E-POSTA GÖNDERİLDİ] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+22:12:30: [DEPO SORUMLUSUNA BİLDİRİM] DİKKAT: Bilgisayar Kasası (Karmaşık) ürünü kritik eşiğin altına düştü! Kalan miktar: 4
+22:12:30: Kripto Cüzdan üzerinden 32000 TL başarıyla çekildi.
+22:12:30: Yurtiçi kargo adaptörü tetiklendi.
+22:12:30: Kargo Takip No: YRT-66C9B
+22:12:30: Kargo ücretine Sigorta eklendi (+50 TL).
+22:12:30: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+22:12:30: Toplam Kargo Maliyeti: 122.5 TL
+22:12:30: Sipariş #207 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+22:12:30: --- İşlem Başarıyla Tamamlandı ---
+23:08:33: --- Yeni İşlem Başlatıldı: Kalem (Basit) ---
+23:08:33: Kalem (Basit) ürününden 1 adet düşüldü. Kalan stok: 9
+23:08:33: Kredi Kartı ile 500 TL ödeme başarıyla çekildi.
+23:08:33: Aras kargo adaptörü tetiklendi.
+23:08:33: Kargo Takip No: ARAS-C65BD
+23:08:33: Kargo ücretine Sigorta eklendi (+50 TL).
+23:08:33: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+23:08:33: Toplam Kargo Maliyeti: 122.5 TL
+23:08:33: Sipariş #208 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+23:08:33: --- İşlem Başarıyla Tamamlandı ---
+23:08:37: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+23:08:37: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+23:08:37: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+23:08:37: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+23:08:37: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 14
+23:08:37: Kredi Kartı ile 32000 TL ödeme başarıyla çekildi.
+23:08:37: Aras kargo adaptörü tetiklendi.
+23:08:37: Kargo Takip No: ARAS-A0DBC
+23:08:37: Kargo ücretine Sigorta eklendi (+50 TL).
+23:08:37: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+23:08:37: Toplam Kargo Maliyeti: 122.5 TL
+23:08:37: Sipariş #209 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+23:08:37: --- İşlem Başarıyla Tamamlandı ---
+23:08:40: --- Yeni İşlem Başlatıldı: Bilgisayar Kasası (Karmaşık) ---
+23:08:40: [Builder] Montaj: İşlemci (Intel i9) sisteme eklendi.
+23:08:40: [Builder] Montaj: Ekran Kartı (RTX 4060) sisteme eklendi.
+23:08:40: Bilgisayar Kasası (Karmaşık) isimli ürün başarıyla inşa edildi. İçeriği: [İşlemci: Intel i9, Ekran Kartı: RTX 4060]
+23:08:40: Bilgisayar Kasası (Karmaşık) ürününden 1 adet düşüldü. Kalan stok: 13
+23:08:40: Kripto Cüzdan üzerinden 32000 TL başarıyla çekildi.
+23:08:40: Aras kargo adaptörü tetiklendi.
+23:08:40: Kargo Takip No: ARAS-C75E1
+23:08:40: Kargo ücretine Sigorta eklendi (+50 TL).
+23:08:40: Kargo ücretine Kırılacak Eşya Koruması eklendi (+35 TL).
+23:08:40: Toplam Kargo Maliyeti: 122.5 TL
+23:08:40: Sipariş #210 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.
+23:08:40: --- İşlem Başarıyla Tamamlandı ---
+23:08:43: Sipariş #209 durumu 'Beklemede' aşamasından 'Kargoda' aşamasına geçiyor.

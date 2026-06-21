@@ -1,0 +1,2 @@
+Kalem (Basit):4
+Bilgisayar Kasası (Karmaşık):10
